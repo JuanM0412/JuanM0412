@@ -6,7 +6,7 @@ I am Juan Manuel Gómez. I live in Colombia and I am currently studying Computer
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanM0412&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanM0412&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanM0412&layout=compact&theme=dracula" />
 </a>
 
 <!--
