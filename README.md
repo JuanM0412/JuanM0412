@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-I am Juan Manuel Gómez. I live in Colombia and I am currently studying Computer Science at EAFIT University. I love mathematics, programming, and listening to music. I have some experience with Linux operating systems and I work as a monitor on the supercomputer at my University.
+I am Juan Manuel Gómez. I live in Colombia and I am currently studying Computer Science at EAFIT University. I love mathematics, programming, and listening to music. I have experience with Linux operating systems and I work as a monitor on the supercomputer at my University.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanM0412&show_icons=true&theme=nord" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanM0412&layout=compact&theme=nord" />
-</a>
-
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanM0412&show_icons=true&theme=nord" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanM0412&layout=compact&theme=nord" />
+  </a>
+</div>
 <!--
 **JuanM0412/JuanM0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
