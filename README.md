@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Juan Manuel Gómez. I live in Colombia and am studying Computer Science at EAFIT University. I love mathematics, programming, and listening to music. I have experience with Linux operating systems and work as a monitor on the supercomputer at my University (Apolo Scientific Computing Center).
+I am Juan Manuel Gómez. I live in Colombia and am studying Computer Science at EAFIT University. I love mathematics, programming, and listening to music. I have experience with Linux operating systems and work as a Research Assistant on the supercomputer at my University (Apolo Scientific Computing Center).
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
